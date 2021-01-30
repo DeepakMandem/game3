@@ -1,0 +1,25 @@
+Game story
+
+Future car soccor game.
+person driving the car.
+
+##For day1
+
+player2
+Ball should start at ground
+Ball direction controls
+Add goals
+
+Idea for level2
+
+two cars should not collide
+ball should not do out of bounds
+more rules
+
+
+pending
+multiplayer game
+cameras
+
+bugs in game
+
